@@ -1,11 +1,11 @@
 @echo off
 mode 67,16
-title DDOS With Tomy Aliyansyah
+title DDOS With Lord_LuBu
 color 0b
 cls
 echo.
 echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
-echo DDOS With Tomy Aliyansyah
+echo DDOS With Lord_Lubu
 echo ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
 echo.
 set /p x=Server-Target:
